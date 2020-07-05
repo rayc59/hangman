@@ -1,0 +1,22 @@
+--- !ruby/object:Hangman
+program_open: true
+guessed_letters:
+- f
+- a
+- e
+- o
+- i
+guesses_left: 1
+playing: true
+secret_word:
+- g
+- i
+- p
+- s
+- y
+word_array:
+- _
+- i
+- _
+- _
+- _
